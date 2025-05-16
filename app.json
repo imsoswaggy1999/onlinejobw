@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "JobHiringApp",
+    "slug": "jobhiringapp",
+    "platforms": ["ios", "android", "web"],
+    "entryPoint": "./App.js",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "dependencies": {
+      "react": "18.1.0",
+      "react-native": "0.71.1",
+      "expo": "^46.0.16",
+      "firebase": "^9.6.1",
+      "@react-navigation/native": "^6.0.10",
+      "@react-navigation/native-stack": "^6.9.10",
+      "react-native-screens": "^3.10.1",
+      "react-native-safe-area-context": "^3.3.2"
+    }
+  }
+}
